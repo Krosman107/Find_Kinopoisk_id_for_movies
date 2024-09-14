@@ -6,8 +6,8 @@ import json
 KINOPOISK_API_URL = "https://kinopoiskapiunofficial.tech/api/v2.1/films/search-by-keyword"
 SMARTY_API_MODIFY_URL = ""
 SMARTY_API_DETAIL_URL = ""
-KINOPOISK_API_KEY = '66d5ca5f-a6e7-4f75-aa56-1a1a7d0f37fd'
-SMARTY_API_KEY = 'e033dc5b045a4bd8b94a280697feb199'
+KINOPOISK_API_KEY = ''
+SMARTY_API_KEY = ''
 client_id = '1'
 
 
